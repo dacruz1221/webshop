@@ -1,5 +1,5 @@
 <?php
-//include auth.php file on all secure pagez
+//include auth.php file on all secure pagezzzzzz
 include("auth.php");
 header('Content-Type: text/html; charset=utf-8');
 ?>
